@@ -17,4 +17,4 @@ You can modify the parameters and produced best_model.csv by running 109550159_F
 
 ## Download the pre-trained model
 Download the pretrained model in the link below and put it in the smae folder as other files.  
-Model link: https://drive.google.com/file/d/1ED7niJo8w2uVnX9mkt8n_q09oskU0o8/view?usp=share_link
+Model link: https://drive.google.com/file/d/1ED7niJo8w2uVn-X9mkt8n_q09oskU0o8/view
