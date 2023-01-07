@@ -15,7 +15,7 @@ $ virtualenv -p <path to python version> myenv
 $ pip install -r requirements.txt
 
 ## Training Code
-You can modify the parameters and produced best_model.csv by running 109550159_Final_train.py
+You can modify the parameters and produced best_model.csv by running 109550159_Final_train.py  
 ![image](https://github.com/Benson5376/Machine-Learning-Final-Project/blob/main/iamge01.png)  
 
 ## Download the pre-trained model
