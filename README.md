@@ -9,7 +9,7 @@ All the packages that should be installed are in requirements.txt
 First download requirements.txt
 
 Build the virtual environment via 
-$ virtualenv -p <path to python version> myenv
+$ virtualenv -p <path to python version> myenv  
 $ pip install -r requirements.txt
 
 ## Training Code
