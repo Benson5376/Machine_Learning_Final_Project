@@ -31,5 +31,5 @@ Without running the training code, you can also download the pretrained model in
 Model link: https://drive.google.com/file/d/1ED7niJo8w2uVn-X9mkt8n_q09oskU0o8/view  
   
 ## Inference
-After prdoducing the model by training code or downloading the model by the model link provided above, you can run ```109550159_Final_inference.py```
-The program will produce submission.py, which is the final submission.
+After producing the model by training code or downloading the model by the model link provided above, you can run ```109550159_Final_inference.py```
+The program will produce ```submission.py```, which is the final submission.
