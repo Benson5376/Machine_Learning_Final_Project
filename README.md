@@ -23,7 +23,7 @@ Download the file below:
 After downloading the files above, put them in the same folder.
 
 ## Training Code
-You can modify the parameters and produced best_model.csv by running ```109550159_Final_train.py```  
+You can modify the parameters and produced ```best_model.csv``` by running ```109550159_Final_train.py```  
 ![image](https://github.com/Benson5376/Machine-Learning-Final-Project/blob/main/iamge01.png)  
 
 ## Download the pre-trained model
